@@ -11,7 +11,8 @@ Hi humans! I'm **Vida (Neurolla)** 🧠
 
 <picture><img align="right" src="https://64.media.tumblr.com/f5f079255fcb8207510c5bb1f100b5ff/9b31aa8ffb0cac7c-1d/s500x750/443a6b3d2fbccfc9e85bc10292558ce9fd2969fe.gifv" width="400px"></picture>
 
-- 🧠 Passionate about connecting **psychology, neuroscience, and programming**  
+- 🧠 Passionate about connecting **psychology, neuroscience, and programming**
+- 🎓 Graduated in **Computer Engineering** from *Allameh Tabataba’i University (ATU)* 
 - 🐍 Currently focusing on **Python** and **Machine Learning**  
 - 🎯 Exploring data-driven approaches to understand the **mind and cognition**  
 - 💡 Believer in lifelong learning and gradual mastery  
@@ -61,9 +62,7 @@ or connect with me here 👇
 ---
 
 ## 🐍 A Snake Eating my Contributions Graph
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=web3kat&theme=burnt-neon)](https://git.io/streak-stats)
 	
 <p align="center">
-	<img src="https://github.com/Neurolla/Neurolla/blob/master/github-contribution-grid-snake.svg" alt="Snake Game"/>
+	[![GitHub Streak](https://streak-stats.demolab.com?user=Neurolla&theme=burnt-neon)](https://git.io/streak-stats)
 </p>
