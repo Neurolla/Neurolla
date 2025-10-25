@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <picture><img src="https://i.pinimg.com/originals/92/5e/66/925e660439316870f1f89d0ca0cfcbba.gif" align="center" width="60"></picture>
 
-Hi humans! I'm **Vida ** 🧠  
+Hi humans! I'm **Vida** 🧠  
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
