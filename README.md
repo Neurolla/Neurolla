@@ -9,7 +9,7 @@ Hi humans! I'm **Vida (Neurolla)** 🧠
 
 ## <picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVrcW1keXJ1em03NWJvNjV6dHI0cjJhbGZ2cGlkMXZzd3Q3anF6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3hoLIVAJYkz6T0Ichp/giphy.gif" width="70px"></picture> About me
 
-<picture><img align="right" src="https://64.media.tumblr.com/f5f079255fcb8207510c5bb1f100b5ff/9b31aa8ffb0cac7c-1d/s500x750/443a6b3d2fbccfc9e85bc10292558ce9fd2969fe.gifv" width="400px"></picture>
+<picture><img align="right" src="https://pin.it/Ls65KoUt1" width="400px"></picture>
 
 - 🧠 Passionate about connecting **psychology, neuroscience, and programming**
 - 🎓 Graduated in **Computer Engineering** from *Allameh Tabataba’i University (ATU)* 
