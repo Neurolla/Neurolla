@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <picture><img src="https://i.pinimg.com/originals/92/5e/66/925e660439316870f1f89d0ca0cfcbba.gif" align="center" width="60"></picture>
 
-Hi humans! I'm **Vida (Neurolla)** 🧠  
+Hi humans! I'm **Vida ** 🧠  
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,7 +9,7 @@ Hi humans! I'm **Vida (Neurolla)** 🧠
 
 ## <picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVrcW1keXJ1em03NWJvNjV6dHI0cjJhbGZ2cGlkMXZzd3Q3anF6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3hoLIVAJYkz6T0Ichp/giphy.gif" width="70px"></picture> About me
 
-<picture><img align="right" src="https://pin.it/Ls65KoUt1" width="400px"></picture>
+<picture><img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmc4bnZvZjdxZWU0eDA0MXF5N3JieHZub3licWNxams4cHk2eTZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="400px"></picture>
 
 - 🧠 Passionate about connecting **psychology, neuroscience, and programming**
 - 🎓 Graduated in **Computer Engineering** from *Allameh Tabataba’i University (ATU)* 
