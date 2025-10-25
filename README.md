@@ -47,9 +47,8 @@ Hi humans! I'm **Vida (Neurolla)** 🧠
 You can contact me through the email in my GitHub profile  
 or connect with me here 👇  
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Telegram" title="Telegram"/>](https://t.me/lilacVv)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Instagram" title="Instagram"/>](https://instagram.com/__imlilac)
-[<img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="40em" align="center" alt="Twitter" title="Twitter"/>](https://twitter.com/_imlilac)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Telegram" title="Telegram"/>](https://t.me/neurollaplus)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Instagram" title="Instagram"/>](https://instagram.com/neurolla)
 
 ---
 
