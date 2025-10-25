@@ -40,7 +40,6 @@ Hi humans! I'm **Vida ** 🧠
 
 </p>
 
----
 
 ## 📫 How to reach me
 You can contact me through the email in my GitHub profile  
@@ -49,7 +48,6 @@ or connect with me here 👇
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Telegram" title="Telegram"/>](https://t.me/neurollaplus)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Instagram" title="Instagram"/>](https://instagram.com/neurolla)
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Language usage
 
@@ -57,8 +55,8 @@ or connect with me here 👇
   <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Neurolla&theme=gruvbox_light&layout=compact"/>
 </div>
 
----
 
-## 🐍 A Snake Eating my Contributions Graph
+
+## ✨ Streak stats
 	
 [![GitHub Streak](https://streak-stats.demolab.com?user=Neurolla&theme=burnt-neon)](https://git.io/streak-stats)
